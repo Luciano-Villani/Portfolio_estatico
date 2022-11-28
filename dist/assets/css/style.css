@@ -48,3 +48,27 @@ section.portada{
  .me-sw {
      margin-right: .1rem !important
  }
+ .login {
+     height:   85vh !important
+
+ }
+ .formulario-login{
+     margin-top: 20%;
+ }
+ .link{
+     text-decoration: none;
+     color: black;
+
+ }
+
+ .textoSkl{
+              display: flex;
+          align-items: center;
+       
+ }
+
+
+.backoffice {
+    height:   85vh !important
+    
+}
